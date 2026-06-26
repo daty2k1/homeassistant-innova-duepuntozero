@@ -28,8 +28,8 @@ import h2.events
 
 _LOGGER = logging.getLogger(__name__)
 
-REST_BASE = "https://api.innova.solutiontech.tech/api"
-GRPC_HOST = "grpc.innova.solutiontech.tech"
+REST_BASE = "https://api.diffusapp.solutiontech.tech/api"
+GRPC_HOST = "grpc.diffusapp.solutiontech.tech"
 GRPC_PORT = 443
 
 # DuepuntozeroValueType constants (from APK reverse engineering)
